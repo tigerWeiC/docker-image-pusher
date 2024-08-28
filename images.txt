@@ -6,3 +6,4 @@ phpmyadmin:5.2.1
 redis:6.2
 redis-commander:0.8.0
 alpine:3.18.2
+tigerwei/big-market-front-app:2.0
