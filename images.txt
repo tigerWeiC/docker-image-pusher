@@ -1,2 +1,2 @@
-tigerwei/big-market-front-app:2.1
-tigerwei/big-market-app:2.0
+tigerwei/big-market-front-app:2.2
+tigerwei/big-market-app:2.2
