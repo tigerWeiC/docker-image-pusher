@@ -1,2 +1,3 @@
 tigerwei/big-market-front-app:2.2
 tigerwei/big-market-app:2.2
+nacos/nacos-server:v2.2.3-slim
